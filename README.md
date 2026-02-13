@@ -85,5 +85,6 @@ Desenvolvido por **[Guilherme Afonso Carvalho]** como parte do aprendizado em de
 
 - GitHub: [GuilhermeAfonC](https://github.com/seu_usuario)
 - LinkedIn: www.linkedin.com/in/guilhermeafonsocarvalho-tic
+- e-mail: afonsocarvalhoguilherme@gmail.com
 
 ---

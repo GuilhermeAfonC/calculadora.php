@@ -86,4 +86,12 @@ Desenvolvido por **[Guilherme Afonso Carvalho]** como parte do aprendizado em de
 - LinkedIn: www.linkedin.com/in/guilhermeafonsocarvalho-tic
 - e-mail: afonsocarvalhoguilherme@gmail.com
 
----
+## Projeto em funcionamento:
+
+<img width="1366" height="638" alt="Calculadora-tela_abertura" src="https://github.com/user-attachments/assets/3cfade68-30d8-477a-a8d5-265c8da323be" />
+
+<img width="330" height="334" alt="Calculadora_calculando" src="https://github.com/user-attachments/assets/96f04f0f-60ed-4ef3-9905-9283e95e00d8" />
+
+<img width="334" height="356" alt="Calculadora_calculando2" src="https://github.com/user-attachments/assets/d939564c-4773-4484-8764-eb2d9ebd61b8" />
+
+
